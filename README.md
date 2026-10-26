@@ -20,7 +20,7 @@ Compares pathology classifiers, dense segmentation models, and instance segmenta
 | Role | Models |
 |---|---|
 | Classifier | ResNet-50, EfficientNet-B0 |
-| Dense segmentation | U-Net (ResNet-34), nnU-Net v2 (2D) |
+| Dense segmentation | U-Net (ResNet-34) |
 | Instance segmentation | Mask R-CNN (R50-FPN), YOLO11-seg |
 
 ## Data
